@@ -5,5 +5,6 @@ The program begins with a partially filled grid that presents a blend of challen
 
 The iterative process continues, with the program dynamically adjusting and testing different number placements until it either successfully solves the puzzle or determines that it is unsolvable. This method not only showcases the power of logical reasoning but also highlights the efficiency of algorithmic techniques in resolving complex combinatorial problems like Sudoku, ultimately demonstrating how structured problem-solving can lead to effective solutions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6043406-39b6-4688-8f80-0d15ea112300" alt="Puzzle">
+  <img src="https://github.com/user-attachments/assets/d5341150-79c0-4923-9ff9-a8477d355054" alt="Sudoku">
 </p>
+
